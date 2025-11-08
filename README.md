@@ -53,8 +53,7 @@ O projeto é um *monorepo*, dividido em `/backend` e `/frontend`. Você precisar
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/crud-fullstack-moderno.git](https://github.com/SEU_USUARIO/crud-fullstack-moderno.git)
-    cd crud-fullstack-moderno
+    git clone https://github.com/GuilhermeSilva-25/CRUD_Full-Stack.git
     ```
 
 ### 1. Configurando o Back-end (Terminal 1)
@@ -70,7 +69,7 @@ O projeto é um *monorepo*, dividido em `/backend` e `/frontend`. Você precisar
     ```
 
 4.  **Configure o Banco de Dados:**
-    * *Nota: Se você já fez o projeto original, o banco `dados` e a tabela `estudante` já existem. Caso contrário, use o arquivo `banco.sql` do projeto original.*
+    * Execute o script `banco.sql` (que está na raiz do projeto) no seu MySQL Workbench ou DBeaver para criar o banco `dados` e a tabela `estudante`.
 
 5.  **Configure as Variáveis de Ambiente:**
     * Na pasta `/backend`, crie um arquivo chamado `.env`
