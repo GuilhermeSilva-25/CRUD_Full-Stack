@@ -126,3 +126,7 @@ Este projeto foi desenvolvido por:
 **Guilherme dos Santos Silva**
 
 **Johnny da Silva Franco de Lima**
+
+**Vinicius Lima Carneiro**
+
+**Vitor de Almeida Bernardo**
